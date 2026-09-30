@@ -6,20 +6,20 @@
            xsi:type="MailApp">
 
   <Id>a5518989-8fce-4416-a833-e876ab82941b</Id>
-  <Version>1.0.0.1</Version>
+  <Version>1.0.0.2</Version>
   <ProviderName>Shubich Engineering</ProviderName>
   <DefaultLocale>en-US</DefaultLocale>
 
   <DisplayName DefaultValue="Copy Email ID"/>
   <Description DefaultValue="Copies the selected message EmailId to the clipboard."/>
 
-  <IconUrl DefaultValue="https://mth7479.github.io/Save-EmailID/assets/icon-64.png"/>
-  <HighResolutionIconUrl DefaultValue="https://mth7479.github.io/Save-EmailID/assets/icon-128.png"/>
+  <IconUrl DefaultValue="https://mth-electrical.github.io/Save-EmailID/assets/icon-64.png"/>
+  <HighResolutionIconUrl DefaultValue="https://mth-electrical.github.io/Save-EmailID/assets/icon-128.png"/>
 
-  <SupportUrl DefaultValue="https://mth7479.github.io/Save-EmailID"/>
+  <SupportUrl DefaultValue="https://mth-electrical.github.io/Save-EmailID"/>
 
   <AppDomains>
-    <AppDomain>https://mth7479.github.io</AppDomain>
+    <AppDomain>https://mth-electrical.github.io</AppDomain>
   </AppDomains>
 
   <Hosts>
@@ -35,7 +35,7 @@
   <FormSettings>
     <Form xsi:type="ItemRead">
       <DesktopSettings>
-        <SourceLocation DefaultValue="https://mth7479.github.io/Save-EmailID/taskpane.html"/>
+        <SourceLocation DefaultValue="https://mth-electrical.github.io/Save-EmailID/taskpane.html"/>
         <RequestedHeight>250</RequestedHeight>
       </DesktopSettings>
     </Form>
@@ -106,19 +106,19 @@
 
       <bt:Images>
         <bt:Image id="icon16"
-                  DefaultValue="https://mth7479.github.io/Save-EmailID/assets/icon-16.png"/>
+                  DefaultValue="https://mth-electrical.github.io/Save-EmailID/assets/icon-16.png"/>
         <bt:Image id="icon32"
-                  DefaultValue="https://mth7479.github.io/Save-EmailID/assets/icon-32.png"/>
+                  DefaultValue="https://mth-electrical.github.io/Save-EmailID/assets/icon-32.png"/>
         <bt:Image id="icon80"
-                  DefaultValue="https://mth7479.github.io/Save-EmailID/assets/icon-80.png"/>
+                  DefaultValue="https://mth-electrical.github.io/Save-EmailID/assets/icon-80.png"/>
       </bt:Images>
 
       <bt:Urls>
         <bt:Url id="taskpaneUrl"
-                DefaultValue="https://mth7479.github.io/Save-EmailID/taskpane.html"/>
+                DefaultValue="https://mth-electrical.github.io/Save-EmailID/taskpane.html"/>
 
         <bt:Url id="functionFile"
-                DefaultValue="https://mth7479.github.io/Save-EmailID/taskpane.html"/>
+                DefaultValue="https://mth-electrical.github.io/Save-EmailID/taskpane.html"/>
       </bt:Urls>
 
       <bt:ShortStrings>
